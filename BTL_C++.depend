@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1685555549 source:c:\users\admin\downloads\btl-c-groups10-2\btl-c-groups10\btl-c-groups10\main.cpp
+	<iostream>
+	"quanli.h"
+
+1685555236 c:\users\admin\downloads\btl-c-groups10-2\btl-c-groups10\btl-c-groups10\quanli.h
+	<iostream>
+	<string>
+	<string.h>
+	<iomanip>
+	<fstream>
+	<cstring>
+	<cctype>
+	<regex>
+
+1685555422 source:c:\users\admin\downloads\btl-c-groups10-2\btl-c-groups10\btl-c-groups10\quanli.cpp
+	"quanli.h"
+
